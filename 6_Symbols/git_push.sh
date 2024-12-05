@@ -18,4 +18,5 @@ git commit -m "Self Learning Project / Codespaces Push "
 git commit -m "$COMMIT_MESSAGE"
 git push
 
-#  /workspaces/OpenShiftEventRouter/6_Symbols/git_push.sh "updates"
+#  updated_repo=$(echo $GITHUB_REPOSITORY | sed 's|rifaterdemsahin|workspaces|g')
+#  /$updated_repo/6_Symbols/git_push.sh "updates"
