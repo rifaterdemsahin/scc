@@ -86,6 +86,14 @@ Codespaces may have limited support for virtualization due to its cloud-based na
     ```bash
     docker run -it --privileged minishift/minishift start
     ```
+@rifaterdemsahin ➜ /workspaces/scc (main) $ docker pull minishift/minishift
+Using default tag: latest
+Error response from daemon: pull access denied for minishift/minishift, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
+@rifaterdemsahin ➜ /workspaces/scc (main) $ docker run -it --privileged minishift/minishift start
+Unable to find image 'minishift/minishift:latest' locally
+docker: Error response from daemon: pull access denied for minishift/minishift, repository does not exist or may require 'docker login': denied: requested access to the resource is denied.
+See 'docker run --help'.
+@rifaterdemsahin ➜ /workspaces/scc (main) $ 
 
 ---
 
