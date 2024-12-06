@@ -1,0 +1,2 @@
+https://www.redhat.com/rhdc/managed-files/ohc/Managing%20SCCs%20in%20OpenShift-1.png
+https://developer.ibm.com/developer/default/learningpaths/secure-context-constraints-openshift/scc-tutorial/images/top-level.png
