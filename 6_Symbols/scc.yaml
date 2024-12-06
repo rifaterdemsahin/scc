@@ -1,0 +1,27 @@
+   apiVersion: security.openshift.io/v1
+   kind: SecurityContextConstraints
+   metadata:
+     name: restricted-scc
+   allowHostDirVolumePlugin: false
+   allowHostIPC: false
+   allowHostNetwork: false
+   allowHostPID: false
+   allowHostPorts: false
+   allowPrivilegeEscalation: false
+   allowedCapabilities: []
+   defaultAddCapabilities: []
+   fsGroup:
+     type: MustRunAs
+   runAsUser:
+     type: MustRunAsRange
+   seLinuxContext:
+     type: MustRunAs
+   supplementalGroups:
+     type: MustRunAs
+   volumes:
+   - configMap
+   - downwardAPI
+   - emptyDir
+   - persistentVolumeClaim
+   - projected
+   - secret
