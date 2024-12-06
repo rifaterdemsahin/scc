@@ -11,14 +11,15 @@
 - 💡 List "Why the skill Matters" for developers and learners.  
 
 🖌️ **Step 2: Setting Up the Repo**  
-- 📚 Provide instructions for creating a GitHub repository.  
+- 📚 Provide instructions for creating a Git repository.  
 - ⚙️ Explain the directory structure for managing learning materials.  
 - 🚀 Add a starter template for the repo (e.g., YAML, Dockerfile, README).  
+- Add the readme files for each folder and concepts
 
 🛠️ **Step 3: Tools and Technologies**  
-- 🔧 List essential the skill tools (e.g., ArgoCD, Flux).  
+- 🔧 List essential the skill tools in the journey (e.g., MermaidCharts, Visios).  
 - 🎓 Add tutorials or links to documentation for each tool.  
-- 🧪 Include steps for setting up a local environment to test the skill workflows.  
+- 🧪 Include steps for setting up a different environments to test the skill workflows.  
 
 🌟 **Step 4: Practical Skill Development**  
 - ✏️ Create a "learn a skill" roadmap with the skill (e.g., coding, Kubernetes, CI/CD).  
@@ -33,11 +34,11 @@
 📌 **Actionable Tips Section**  
 - 🛠️ Include a checklist for learners to set up their first the skill pipeline.  
 - 🤝 Add a guide on collaborating with others using the skill workflows.  
-- 🎯 Suggest milestones to keep learners motivated.  
+- 🎯 Suggest milestones to keep learners motivated. ( e.g screenshots of the skill in action)
 
 🌍 **Community Building and Sharing**  
 - 🌟 Create a space for sharing learning progress (e.g., Issues or Discussions in the repo).  
-- 🤖 Integrate automation (bots or scripts) to celebrate achievements.  
+- 🤖 Integrate automation (bots or scripts) to celebrate achievements. (e.g share tactics to learn a skill)  
 - 📣 Include links to the skill communities for support and networking.  
 
 💡 **Extras and Advanced Learning**  

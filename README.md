@@ -1,5 +1,7 @@
 # Self Learning Project Template
 
+## Goal : Fill the skills gaps by self learning while leveraging technology
+
 ## Documentation for the Folder Structure
 
 | Section         | Description                                                                                                      | Action                |
